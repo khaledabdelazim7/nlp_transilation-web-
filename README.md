@@ -42,7 +42,7 @@ pip install streamlit transformers torch
 2. Run the Streamlit app using:
 
    ```bash
-   streamlit run app.py
+   streamlit run newapp.py
    ```
 3. The app will launch in your browser. Choose a translation direction, input text, and click **"Translate"**.
 
